@@ -1,2 +1,2 @@
-# Geolocation
-this project is developed to make a geolocation of patients
+# patients_geolocation
+Project to locate patients in order to facilitate their home appointments by medical specialists
